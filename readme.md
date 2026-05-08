@@ -9,7 +9,7 @@ This repository contains solutions to 7 TypeScript problem-solving tasks along w
 - `solutions.ts` → Contains all 7 TypeScript problem solutions
 - `blog-1.md` → Blog about `any` vs `unknown`
 - `blog-2.md` → Blog about `Pick` and `Omit`
-- `README.md` → Project overview and instructions
+- `README.md` → Brief explanation what I did
 
 ---
 
